@@ -1,0 +1,14 @@
+{
+    "username": "Customer123",
+    "email": "test123@rtcamp.com",
+    "password": "Password@123",
+    "role": "Customer",
+    "country": "India",
+    "firstName": "Customer",
+    "lastName": "test",
+    "address": "Lane 3, near xyz landmark",
+    "city": "city1",
+    "state": "Karnataka",
+    "pincode": "231414",
+    "phone": "1234457656"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Product123",
+    "description": "This is a test product",
+    "regularPrice": "100",
+    "salePrice": "95",
+    "imageID": "",
+    "category": "TestProducts",
+    "tags": "Test, Placeholder"
+}
